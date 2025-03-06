@@ -42,6 +42,8 @@ public class Main {
                         System.out.println("数据");
 
 
+
+
                     }
                     else
                         break;
