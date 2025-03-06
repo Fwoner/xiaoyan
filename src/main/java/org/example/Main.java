@@ -40,6 +40,8 @@ public class Main {
                     if (get_table.next()) {
                         System.out.println(get_table.getString("TABLE_NAME"));
                         System.out.println("数据");
+
+
                     }
                     else
                         break;
